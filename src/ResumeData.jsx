@@ -67,7 +67,7 @@ const profileData = {
   //   Here you can add as much paragraph as you can
   descriptions: [
     `I am a web developer with Full Stack, I do believe that code and programming are important skills. , I have a creative mind and am always up for new challenges. I am well organized and always plan ahead to make sure I manage my time well. Enjoy with study in Software Development .`,
-    `I have experience in the web developer I am current study in DA for 2 years and do coding I would like to achieve my goal the aim is to build practical applications that will be 100% successful as help people for study that's my dream
+    `I have experience in the web developer I am current study in DA for 2 years and do coding I would like to achieve my goal the aim is to build practical applications that will be 100% successful as help people for study that's my dream.
 
     `,
   ],
