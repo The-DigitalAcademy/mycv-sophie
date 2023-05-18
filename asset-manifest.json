@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mycv-sophie/static/css/main.88dabf4b.css",
+    "main.js": "/mycv-sophie/static/js/main.d93a0254.js",
+    "static/media/mypic.jpeg": "/mycv-sophie/static/media/mypic.ea2bf7ee8f19e6dd2d5a.jpeg",
+    "index.html": "/mycv-sophie/index.html",
+    "main.88dabf4b.css.map": "/mycv-sophie/static/css/main.88dabf4b.css.map",
+    "main.d93a0254.js.map": "/mycv-sophie/static/js/main.d93a0254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88dabf4b.css",
+    "static/js/main.d93a0254.js"
+  ]
+}
