@@ -141,7 +141,7 @@ const experienceData = {
   title: "Experience",
   experiences: [
     {
-      title: "Web Developer IT System Support(Full stack)",
+      title: "Web Developer (Full stack)",
       company: "2021 - 2022",
       describe:
         "I did work as a Codes of programming at Digital Academy.",
